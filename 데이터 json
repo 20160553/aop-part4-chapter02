@@ -1,0 +1,46 @@
+{
+    "musics" : [
+        {
+            "track" : "What You Like",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/006/what-you-like-1631271635-cC2vMe487N.mp3",
+            "artist" : "Curb",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/006/100x100/what-you-like-1631271631-1nbDNE73Qu.jpg"
+            },
+            { 
+            "track" : "A New Adventure",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/005/a-new-adventure-1631185232-3bu68yxdGn.mp3",
+            "artist" : "Molly Ann, JJD",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/005/100x100/a-new-adventure-1631185230-NKwzbKdyyU.jpg"
+            },
+            {
+            "track" : "Together",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/004/together-1631005235-olYxfCKPXw.mp3",
+            "artist" : "Axol, Alex Skrindo, Distrion, RudeLies",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/004/100x100/together-1631005233-ycuBK1ei7m.jpg"
+            },
+            {
+            "track" : "Omen",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/003/omen-1630659637-G8apyocGHd.mp3",
+            "artist" : "Time To Talk, Asena, Cartoon",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/003/100x100/omen-1630659633-gD5wrreRLJ.jpg"
+            },
+            {
+            "track" : "Zero Gravity",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/002/zero-gravity-1630580436-wPRwWRirle.mp3",
+            "artist" : "Jauque X, Tom Wilson",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/002/100x100/zero-gravity-1630580432-0wxac0RIr3.jpg"
+            },
+            {
+            "track" : "This Time",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/001/this-time-1630411235-XdyHofeGwA.mp3",
+            "artist" : "Molly Ann, CRVN, Tim Beeren, IZECOLD, Diviners",
+            "coverUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/001/100x100/this-time-1630411232-M7AjvtkHbk.jpg"
+            },
+            {
+            "track" : "High",
+            "streamUrl" : "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/000/high-1630069243-NMioALN06H.mp3",
+            "artist" : "Aleesia, JPB",
+            "coverUrl" : "/static/web/img/no-track.png?_m=1597301782"
+            }
+    ]
+}
